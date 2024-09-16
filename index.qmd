@@ -11,18 +11,12 @@ about:
       href: https://github.com/IrisFokam
 ---
 
-**\### This content appears above the formatted about page content.**
-
-**:::{#intro-heading}**
-
 **Brief description of me.**
 
-**\## Education**
+I am called Iris Fokam, and I was borne and raised in Central Africa Cameroon. I love singing and cooking as hobbies, and I am currently "enjoying" the joys of independent life as I strive to take care of myself, and pay my rent on time.
 
-**Macalester College \| St. Paul MN \<br\>**
+**Education**
 
-**B.A. in MAJOR \| Sept 2019 - May 2023**
+Macalester College \| St. Paul MN
 
-**:::**
-
-**\### This content appears below the formatted about page content.**
+Data Science Major \| August 2022 - May 2026
