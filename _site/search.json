@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "mysite/index.html",
+    "href": "mysite/index.html",
+    "title": "mysite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Iris’s Personal temp. website",
+    "section": "",
+    "text": "### This content appears above the formatted about page content.\n:::{#intro-heading}\nBrief description of me.\n## Education\nMacalester College | St. Paul MN &lt;br&gt;\nB.A. in MAJOR | Sept 2019 - May 2023\n:::\n### This content appears below the formatted about page content."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "mysite/about.html",
+    "href": "mysite/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
